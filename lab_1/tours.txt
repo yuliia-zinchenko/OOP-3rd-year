@@ -1,0 +1,7 @@
+Relaxation,Holiday in Turkey,Plane,All Inclusive,7,1500.0,Grand Hotel
+Excursion,European Tour,Bus,Breakfast,10,1200.0,5
+Relaxation,Holiday in Egypt,Plane,All Inclusive,10,2200.0,Hilton Sharks Bay
+Excursion,Weekend in Lviv,Train,No meals,3,300.0,3
+Medical,Health retreat in Truskavets,Train,Full board,14,2500.0,Royal Medical Center
+Cruise,Caribbean Cruise,Ship,All Inclusive,8,3500.0,Odyssey of the Seas
+Medical,Spa Weekend in Hungary,Bus,Half board,4,900.0,Heviz Spa
